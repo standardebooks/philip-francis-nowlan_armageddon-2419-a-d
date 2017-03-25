@@ -2,9 +2,9 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="cc: http://creativecommons.org/ns, se: http://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/philip-francis-nowlan/armageddon-2419-a-d</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
-		<meta property="se:revision-number">0</meta>
+		<dc:date>2017-03-25T01:06:56Z</dc:date>
+		<meta property="dcterms:modified">2017-03-25T01:06:56Z</meta>
+		<meta property="se:revision-number">1</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -24,15 +24,16 @@
 		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/32530</meta>
 		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/32530</meta>
 		<meta property="se:subject">Science Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Adventure hero Buck Rogers battles the forces of the evil Han Empire in 2419 America.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONGDESCRIPTION
+			&lt;p&gt;&lt;i&gt;Armageddon 2419 A.D.&lt;/i&gt; features the introduction of Buck Rogers, the famous sci-fi adventure hero of early comics and radio shows.  Originally published in &lt;i&gt;Amazing Stories&lt;/i&gt; in 1928, this novella was later combined with Nowlan’s sequel, &lt;i&gt;The Airlords of Han&lt;/i&gt;, and re-published under this same title in the 1960s.&lt;/p&gt;
+			&lt;p&gt;In it we follow Buck Rogers and his mysterious transportation to far-future America.  The land was been conquered by the evil Han Empire centuries ago, and the local Americans, scattered into competing gangs, are now starting a rebellion.  Buck meets the leaders of one of the gangs and is swept up in the events.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/32530</dc:source>
-		<meta property="se:word-count">27348</meta>
+		<meta property="se:word-count">27335</meta>
 		<meta property="se:reading-ease.flesch">59.74</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Armageddon_2419_A.D.</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/philip-francis-nowlan_armageddon-2419-a-d</meta>
