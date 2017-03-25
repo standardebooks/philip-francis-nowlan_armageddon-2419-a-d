@@ -4,3 +4,8 @@
 abbr.era{
 	font-variant: all-small-caps;
 }
+
+span[epub|type~="subtitle"]{
+	display: block;
+	font-weight: normal;
+}
