@@ -26,21 +26,21 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Armageddon 2419 A.D.</dc:title>
 		<meta property="file-as" refines="#title">Armageddon 2419 A.D.</meta>
 		<dc:subject id="subject-1">Science fiction</dc:subject>
 		<dc:subject id="subject-2">War stories</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/32530</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/32530</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85118629</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh85145220</meta>
 		<meta property="se:subject">Science Fiction</meta>
 		<dc:description id="description">Adventure hero Buck Rogers battles the forces of the evil Han Empire in 2419 America.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Armageddon 2419 A.D.&lt;/i&gt; features the introduction of Buck Rogers, the famous sci-fi adventure hero of early comics and radio shows. Originally published in &lt;i&gt;Amazing Stories&lt;/i&gt; in 1928, this novella was later combined with Nowlan’s sequel, &lt;i&gt;The Airlords of Han&lt;/i&gt;, and re-published under this same title in the 1960s.&lt;/p&gt;
 			&lt;p&gt;In it we follow Buck Rogers and his mysterious transportation to far-future America. The land was been conquered by the evil Han Empire centuries ago, and the local Americans, scattered into competing gangs, are now starting a rebellion. Buck meets the leaders of one of the gangs and is swept up in the events.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/32530</dc:source>
 		<meta property="se:word-count">27335</meta>
