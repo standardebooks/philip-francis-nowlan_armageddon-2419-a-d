@@ -29,6 +29,7 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Armageddon 2419 A.D.</dc:title>
 		<meta property="file-as" refines="#title">Armageddon 2419 A.D.</meta>
+		<meta property="se:alternate-title" refines="#title">Armageddon Twenty-Four Nineteen A.D.</meta>
 		<dc:subject id="subject-1">Science fiction</dc:subject>
 		<dc:subject id="subject-2">War stories</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
