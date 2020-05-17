@@ -39,7 +39,7 @@
 		<meta property="se:subject">Science Fiction</meta>
 		<dc:description id="description">Adventure hero Buck Rogers battles the forces of the evil Han Empire in 2419 America.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Armageddon 2419 A.D.&lt;/i&gt; features the introduction of Buck Rogers, the famous sci-fi adventure hero of early comics and radio shows. Originally published in &lt;i&gt;Amazing Stories&lt;/i&gt; in 1928, this novella was later combined with Nowlan’s sequel, &lt;i&gt;The Airlords of Han&lt;/i&gt;, and re-published under this same title in the 1960s.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Armageddon 2419 &lt;abbr&gt;A.D.&lt;/abbr&gt;&lt;/i&gt; features the introduction of Buck Rogers, the famous sci-fi adventure hero of early comics and radio shows. Originally published in &lt;i&gt;Amazing Stories&lt;/i&gt; in 1928, this novella was later combined with &lt;a href="https://standardebooks.org/ebooks/philip-francis-nowlan"&gt;Nowlan’s&lt;/a&gt; sequel, &lt;a href="https://standardebooks.org/ebooks/philip-francis-nowlan/the-airlords-of-han"&gt;&lt;i&gt;The Airlords of Han&lt;/i&gt;&lt;/a&gt;, and re-published under this same title in the 1960s.&lt;/p&gt;
 			&lt;p&gt;In it we follow Buck Rogers and his mysterious transportation to far-future America. The land was conquered by the evil Han Empire centuries ago, and the local Americans, scattered into competing gangs, are now starting a rebellion. Buck meets the leaders of one of the gangs and is swept up in the events.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
