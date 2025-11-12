@@ -53,8 +53,8 @@
 		<meta property="file-as" refines="#author">Nowlan, Philip Francis</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Philip_Francis_Nowlan</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n90627162</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wfw</meta>
 		<dc:contributor id="artist">Abraham Walkowitz</dc:contributor>
 		<meta property="file-as" refines="#artist">Walkowitz, Abraham</meta>
